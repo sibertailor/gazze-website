@@ -46,7 +46,7 @@ export function ProductPortfolio() {
               <span className="text-emerald-700">Ambalaj Çözümleri</span>
             </h2>
             <p className="text-lg text-stone-600">
-              Geniş ürün yelpazemizle tekstilden gıdaya, e-ticaretten ağır sanayiye kadar tüm ihtiyaçlarınıza kaliteli yanıtlar veriyoruz.
+              Gazze Kağıt Ambalaj olarak, Konya merkezli lojistik gücümüzle hızlı teslimat ve kesintisiz stok garantisi sunuyoruz. Sadece ürün tedarik etmekle kalmıyor, markanıza özel tasarımlar ve doğa dostu çözümlerle iş süreçlerinizi kolaylaştırıyoruz. Kaliteyi rekabetçi fiyatlarla birleştirerek, her aşamada güvenilir ve profesyonel bir çözüm ortağı olarak yanınızda yer alıyoruz.
             </p>
           </div>
           <Link

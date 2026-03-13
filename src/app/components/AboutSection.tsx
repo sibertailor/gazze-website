@@ -52,7 +52,7 @@ export function AboutSection() {
                 <span className="text-emerald-700">Doğaya Saygılı, Geleceğe Odaklı</span>
               </h2>
               <p className="text-lg text-stone-600 leading-relaxed">
-                2020 yılında konya'da kurulan Gazze Kağıt Ambalaj, ambalaj sektöründe kaliteyi ve sürdürülebilirliği bir araya getirme vizyonuyla yola çıkmıştır. Bugün, modern üretim tesisimiz ve uzman kadromuzla yüzlerce markaya ambalaj çözümleri sunuyoruz.
+                2021 yılında Konya'da küçük bir atölye olarak kurulan Gazze Kağıt Ambalaj, bugün kaliteyi ve sürdürülebilirliği bir araya getirme vizyonuyla yoluna devam etmektedir. Temellerimizi attığımız o günden bu yana, kağıdın doğallığını profesyonel çözümlerle birleştirerek sektörde fark yaratıyoruz. İç Anadolu’nun en büyük tedarikçi merkezi olma hedefimizle; özel ölçü ambalajlardan markaya özel tasarımlara kadar geniş bir yelpazede hizmet sunuyoruz. Konya’daki stratejik konumumuz sayesinde, hem yurt içine hem de yurt dışına kesintisiz ve hızlı sevkiyat sağlıyoruz. Bizim için ambalaj sadece bir kutu değil, iş ortaklarımızın kalitesine vurduğumuz bir mühürdür. Doğaya saygılı, estetik ve dayanıklı çözümlerimizle ambalaj süreçlerinizin tamamında güvenilir bir yol arkadaşı olmayı sürdürüyoruz.
               </p>
               <p className="text-lg text-stone-600 leading-relaxed">
                 Sadece bir üretici değil, aynı zamanda bir çözüm ortağıyız. Markanızın kimliğini yansıtan, ürünlerinizi koruyan ve doğayı üzmeyen ambalajlar tasarlıyoruz.

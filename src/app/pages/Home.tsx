@@ -95,15 +95,11 @@ export function Home() {
             </span>
 
             <h2 className="text-4xl font-extrabold leading-tight text-stone-900 md:text-5xl">
-              Sektörün Güvenilir <br />
-              <span className="text-emerald-700">Ambalaj Ortağı</span>
+              Güvenilir iş Ortaklığı<br />
             </h2>
 
             <p className="text-lg text-stone-600">
-              Müşterilerimizin memnuniyeti bizim en büyük önceliğimizdir. Her
-              aşamada titizlikle çalışarak, beklentilerin ötesine geçmeyi
-              hedefliyoruz. Pastane, fırın, restoran ve uluslararası iş
-              ortaklarımızla güçlü bir referans ağı oluşturuyoruz.
+              Bizim için her müşteri, sadece bir ticari işlem değil; uzun vadeli bir güven yolculuğudur. İş ortaklarımızın ihtiyaçlarını kendi işimiz gibi sahipleniyor, en doğru ambalaj çözümünü en rekabetçi koşullarla sunuyoruz.
             </p>
           </div>
 

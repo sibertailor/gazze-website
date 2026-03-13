@@ -54,7 +54,7 @@ export function AboutPage() {
                 <span className="text-emerald-700">Kalite ve Tutku</span>
               </h2>
               <p className="text-lg text-stone-600 leading-relaxed">
-                2020 yılında konya'da küçük bir atölye olarak kurulan Gazze Kağıt Ambalaj, bugün ambalaj sektöründe kaliteyi ve sürdürülebilirliği bir araya getirme vizyonuyla yoluna devam etmektedir.
+                2021 yılında Konya'da küçük bir atölye olarak kurulan Gazze Kağıt Ambalaj, bugün kaliteyi ve sürdürülebilirliği bir araya getirme vizyonuyla yoluna devam etmektedir. Temellerimizi attığımız o günden bu yana, kağıdın doğallığını profesyonel çözümlerle birleştirerek sektörde fark yaratıyoruz. İç Anadolu’nun en büyük tedarikçi merkezi olma hedefimizle; özel ölçü ambalajlardan markaya özel tasarımlara kadar geniş bir yelpazede hizmet sunuyoruz. Konya’daki stratejik konumumuz sayesinde, hem yurt içine hem de yurt dışına kesintisiz ve hızlı sevkiyat sağlıyoruz. Bizim için ambalaj sadece bir kutu değil, iş ortaklarımızın kalitesine vurduğumuz bir mühürdür. Doğaya saygılı, estetik ve dayanıklı çözümlerimizle ambalaj süreçlerinizin tamamında güvenilir bir yol arkadaşı olmayı sürdürüyoruz.
               </p>
               <p className="text-lg text-stone-600 leading-relaxed">
                 Modern üretim tesisimiz ve uzman kadromuzla, her yıl milyonlarca ambalaj üretiyor ve Türkiye'nin dört bir yanındaki markalara ulaştırıyoruz. İşimizi yaparken sadece ürün değil, markanızın hikayesini taşıyacak bir araç tasarlıyoruz.
@@ -134,13 +134,13 @@ export function AboutPage() {
             <div className="bg-stone-50 p-12 rounded-[2.5rem] border border-stone-100 flex flex-col gap-6">
               <h3 className="text-3xl font-extrabold text-stone-900 border-b border-emerald-200 pb-4">Vizyonumuz</h3>
               <p className="text-stone-600 text-lg leading-relaxed italic">
-                "Kağıt ambalaj sektöründe sadece Türkiye'de değil, küresel ölçekte yenilikçi ve sürdürülebilir çözümleriyle tanınan, doğayla uyumlu ambalaj standartlarını belirleyen öncü bir marka olmak."
+                "Anadoludan yükselen bir gurup olarak hedefimiz; böIgenin en büyük ve en güvenilir ambalaj tedarik merkezi konumuna gelmektir. Tükiye’nin dört bir yanına ve yurt dışına uzanan operasyon amacımız her geçen gün genişletirken, ambalaj dendiğinde akla gelen "en güvenilir " olma yolunda kararlılıkla ilerliyoruz. Geleceği, sürdürülebilir ambalaj stratejilerimizle şekillendiriyoruz."
               </p>
             </div>
             <div className="bg-emerald-900 p-12 rounded-[2.5rem] flex flex-col gap-6 text-white">
               <h3 className="text-3xl font-extrabold text-emerald-400 border-b border-emerald-700 pb-4">Misyonumuz</h3>
               <p className="text-emerald-100 text-lg leading-relaxed italic">
-                "Müşterilerimize marka değerlerini yükselten kaliteli, estetik ve dayanıklı ambalaj çözümleri sunarken; kaynaklarımızı verimli kullanarak gelecek nesillere daha yaşanabilir bir çevre bırakmak."
+                "Misyonumuz; kağıt ambalajın her alanında (özel ölçü, baskılı çözümler ve endüstriyel ambalajlar) en yüksek standartları piyasaya sürmektir. Geniş ürün yelpazemiz ve sektördeki derin tecrübemizle, müşterilerimize en doğru termin sürelerini ve en rekabetçi fiyat dengesini sunuyoruz. Her bir paketi, markanızın imzası olarak görüyor ve bu sorumlulukla hareket ediyoruz."
               </p>
             </div>
           </div>
