@@ -56,13 +56,11 @@ export function AboutPage() {
               <p className="text-lg text-stone-600 leading-relaxed">
                 2021 yılında Konya'da küçük bir atölye olarak kurulan Gazze Kağıt Ambalaj, bugün kaliteyi ve sürdürülebilirliği bir araya getirme vizyonuyla yoluna devam etmektedir. Temellerimizi attığımız o günden bu yana, kağıdın doğallığını profesyonel çözümlerle birleştirerek sektörde fark yaratıyoruz. İç Anadolu’nun en büyük tedarikçi merkezi olma hedefimizle; özel ölçü ambalajlardan markaya özel tasarımlara kadar geniş bir yelpazede hizmet sunuyoruz. Konya’daki stratejik konumumuz sayesinde, hem yurt içine hem de yurt dışına kesintisiz ve hızlı sevkiyat sağlıyoruz. Bizim için ambalaj sadece bir kutu değil, iş ortaklarımızın kalitesine vurduğumuz bir mühürdür. Doğaya saygılı, estetik ve dayanıklı çözümlerimizle ambalaj süreçlerinizin tamamında güvenilir bir yol arkadaşı olmayı sürdürüyoruz.
               </p>
-              <p className="text-lg text-stone-600 leading-relaxed">
-                Modern üretim tesisimiz ve uzman kadromuzla, her yıl milyonlarca ambalaj üretiyor ve Türkiye'nin dört bir yanındaki markalara ulaştırıyoruz. İşimizi yaparken sadece ürün değil, markanızın hikayesini taşıyacak bir araç tasarlıyoruz.
-              </p>
+
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 pt-8">
                 <div className="flex flex-col gap-2 p-6 rounded-2xl bg-stone-50 border border-stone-100">
                   <span className="text-3xl font-bold text-emerald-700">10+</span>
-                  <span className="text-xs font-bold text-stone-500 uppercase tracking-widest">Çalışan Sayısı</span>
+                  <span className="text-xs font-bold text-stone-500 uppercase tracking-widest">Fabrika Sayısı</span>
                 </div>
                 <div className="flex flex-col gap-2 p-6 rounded-2xl bg-stone-50 border border-stone-100">
                   <span className="text-3xl font-bold text-emerald-700">5+</span>
@@ -71,13 +69,13 @@ export function AboutPage() {
               </div>
             </div>
             <div className="relative">
-              <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl aspect-video">
-                <ImageWithFallback
-                  src="https://images.unsplash.com/photo-1641321147411-1620b5f37d9d"
-                  alt="Our Team Workspace"
-                  className="w-full h-full object-cover"
-                />
-              </div>
+            <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl">
+              <ImageWithFallback
+                src="/images/gida.png"
+                alt="gazze doğa"
+                className="w-full object-contain"
+              />
+            </div>
               <div className="absolute -top-6 -right-6 w-1/2 aspect-square bg-emerald-600 rounded-3xl -z-10 hidden md:block"></div>
             </div>
           </div>
