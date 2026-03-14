@@ -27,13 +27,13 @@ export function AboutSection() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
           {/* Images */}
           <div className="relative group">
-            <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl aspect-[4/5]">
-              <ImageWithFallback
-                src="/images/gazze-doga.jpeg"
-                alt="gazze doğa"
-                className="w-full h-full object-cover grayscale-20 group-hover:grayscale-0 transition-all duration-700"
-              />
-            </div>
+        <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl">
+          <ImageWithFallback
+            src="/images/gida.png"
+            alt="gazze doğa"
+            className="w-full object-contain"
+          />
+        </div>
             {/* Experience Badge */}
             <div className="absolute -bottom-10 -right-10 z-20 bg-emerald-700 text-white p-10 rounded-3xl shadow-2xl hidden md:flex flex-col gap-2 items-center justify-center aspect-square text-center">
               <span className="text-5xl font-extrabold">5+</span>
